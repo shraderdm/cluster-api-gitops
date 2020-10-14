@@ -1,6 +1,6 @@
 #@data/values
 ---
-git_url: https://github.com/voor/cluster-api-gitops
+git_url: https://github.com/shraderdm/cluster-api-gitops
 git_branch: origin/default
 git:
   secretRef: workload-git-secret
